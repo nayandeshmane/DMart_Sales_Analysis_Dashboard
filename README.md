@@ -30,6 +30,6 @@
     <li>Understand customer behavior and preferences.</li>
     <li>Track sales performance at various levels – product categories, regions, and time periods.</li>
   </ul>
-  <img src="Screenshot 2024-09-21 015140.png"width="1400" height="400">
+  <img src="Screenshot 2024-09-21 015140.png"width="1400" height="350">
 <h2>✨ Contributions</h2>
   <p>If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions in the form of suggestions, bug fixes, or feature enhancements are welcome!</p>
